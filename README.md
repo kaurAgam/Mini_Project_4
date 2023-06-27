@@ -3,7 +3,7 @@
 
 This project is a Python-based image processing application that allows you to remove the background of an image using the power of Python and the rembg tool and pillow library.
 ## Features
- The script analyzes the image and applies an algorithm to automatically detect and remove the background, resulting in a foreground image with a transparent background.
+ The script analyzes the image and applies an algorithm to automatically detect and remove the background, resulting in a foreground image with a transparent background. <br/>
  from <br/>
  ![1](https://github.com/kaurAgam/Mini_Project_4/assets/122470353/1ddbf670-f70c-4ae3-abde-982860c0f197) <br/>
  to <br/>
